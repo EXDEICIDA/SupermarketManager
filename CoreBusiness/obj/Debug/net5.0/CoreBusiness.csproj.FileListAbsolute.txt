@@ -1,0 +1,23 @@
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\CoreBusiness\bin\Debug\net5.0\CoreBusiness.deps.json
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\CoreBusiness\bin\Debug\net5.0\CoreBusiness.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\CoreBusiness\bin\Debug\net5.0\ref\CoreBusiness.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\CoreBusiness\bin\Debug\net5.0\CoreBusiness.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\CoreBusiness\obj\Debug\net5.0\CoreBusiness.csproj.AssemblyReference.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\CoreBusiness\obj\Debug\net5.0\CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\CoreBusiness\obj\Debug\net5.0\CoreBusiness.AssemblyInfoInputs.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\CoreBusiness\obj\Debug\net5.0\CoreBusiness.AssemblyInfo.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\CoreBusiness\obj\Debug\net5.0\CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\CoreBusiness\obj\Debug\net5.0\CoreBusiness.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\CoreBusiness\obj\Debug\net5.0\ref\CoreBusiness.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\CoreBusiness\obj\Debug\net5.0\CoreBusiness.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\CoreBusiness\bin\Debug\net5.0\CoreBusiness.deps.json
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\CoreBusiness\bin\Debug\net5.0\CoreBusiness.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\CoreBusiness\bin\Debug\net5.0\CoreBusiness.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\CoreBusiness\obj\Debug\net5.0\CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\CoreBusiness\obj\Debug\net5.0\CoreBusiness.AssemblyInfoInputs.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\CoreBusiness\obj\Debug\net5.0\CoreBusiness.AssemblyInfo.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\CoreBusiness\obj\Debug\net5.0\CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\CoreBusiness\obj\Debug\net5.0\CoreBusiness.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\CoreBusiness\obj\Debug\net5.0\refint\CoreBusiness.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\CoreBusiness\obj\Debug\net5.0\CoreBusiness.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\CoreBusiness\obj\Debug\net5.0\ref\CoreBusiness.dll

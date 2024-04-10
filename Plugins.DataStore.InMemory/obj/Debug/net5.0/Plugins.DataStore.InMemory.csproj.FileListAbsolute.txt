@@ -1,0 +1,34 @@
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\Plugins.DataStore.InMemory\bin\Debug\net5.0\Plugins.DataStore.InMemory.deps.json
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\Plugins.DataStore.InMemory\bin\Debug\net5.0\Plugins.DataStore.InMemory.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\Plugins.DataStore.InMemory\bin\Debug\net5.0\ref\Plugins.DataStore.InMemory.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\Plugins.DataStore.InMemory\bin\Debug\net5.0\Plugins.DataStore.InMemory.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\Plugins.DataStore.InMemory\bin\Debug\net5.0\CoreBusiness.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\Plugins.DataStore.InMemory\bin\Debug\net5.0\UseCases.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\Plugins.DataStore.InMemory\bin\Debug\net5.0\UseCases.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\Plugins.DataStore.InMemory\bin\Debug\net5.0\CoreBusiness.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\Plugins.DataStore.InMemory.csproj.AssemblyReference.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\Plugins.DataStore.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\Plugins.DataStore.InMemory.AssemblyInfoInputs.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\Plugins.DataStore.InMemory.AssemblyInfo.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\Plugins.DataStore.InMemory.csproj.CoreCompileInputs.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\Plugins.DataStore.InMemory.csproj.CopyComplete
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\Plugins.DataStore.InMemory.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\ref\Plugins.DataStore.InMemory.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\Plugins.DataStore.InMemory.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\Plugins.DataStore.InMemory\bin\Debug\net5.0\Plugins.DataStore.InMemory.deps.json
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\Plugins.DataStore.InMemory\bin\Debug\net5.0\Plugins.DataStore.InMemory.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\Plugins.DataStore.InMemory\bin\Debug\net5.0\Plugins.DataStore.InMemory.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\Plugins.DataStore.InMemory\bin\Debug\net5.0\CoreBusiness.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\Plugins.DataStore.InMemory\bin\Debug\net5.0\UseCases.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\Plugins.DataStore.InMemory\bin\Debug\net5.0\UseCases.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\Plugins.DataStore.InMemory\bin\Debug\net5.0\CoreBusiness.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\Plugins.DataStore.InMemory.csproj.AssemblyReference.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\Plugins.DataStore.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\Plugins.DataStore.InMemory.AssemblyInfoInputs.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\Plugins.DataStore.InMemory.AssemblyInfo.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\Plugins.DataStore.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\Plugins..E125B32D.Up2Date
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\Plugins.DataStore.InMemory.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\refint\Plugins.DataStore.InMemory.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\Plugins.DataStore.InMemory.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\Plugins.DataStore.InMemory\obj\Debug\net5.0\ref\Plugins.DataStore.InMemory.dll
