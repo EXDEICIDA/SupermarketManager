@@ -1,0 +1,429 @@
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\appsettings.json
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.StaticWebAssets.xml
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.exe
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.deps.json
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.json
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.dev.json
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\ref\WebApp.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.Views.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.Views.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\CoreBusiness.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Plugins.DataStore.InMemory.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\UseCases.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\CoreBusiness.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Plugins.DataStore.InMemory.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\UseCases.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.csproj.AssemblyReference.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfoInputs.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfo.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.RazorComponent.input.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\CategoriesComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.RazorComponent.output.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\WebApp.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.input.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.output.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.RazorCoreGenerate.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\CategoriesComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.xml
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\scopedcss\bundle\WebApp.styles.css
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.Views.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.csproj.CopyComplete
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\ref\WebApp.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.genruntimeconfig.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\AddCategoryComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\AddCategoryComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\EditCategoryComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\EditCategoryComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\ProductsComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\ProductsComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\AddProductComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\AddProductComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\EditProductComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\EditProductComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Controls\SelectProductForSellingComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\CashierConsoleComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Controls\SelectProductForSellingComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\CashierConsoleComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Controls\SellProductComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Controls\SellProductComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Controls\TodayTransactionsComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Controls\TodayTransactionsComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\TransactionsReportComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\TransactionsReportComponent.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Humanizer.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Plugins.DataStore.SQL.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Plugins.DataStore.SQL.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.StaticWebAssets.xml
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.exe
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.deps.json
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.json
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.dev.json
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.Views.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\WebApp.Views.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\CoreBusiness.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Plugins.DataStore.InMemory.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Plugins.DataStore.SQL.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\UseCases.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\CoreBusiness.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Plugins.DataStore.InMemory.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\Plugins.DataStore.SQL.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\bin\Debug\net5.0\UseCases.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfo.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.RazorComponent.input.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Controls\SelectProductForSellingComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Controls\SellProductComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Controls\TodayTransactionsComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\AddCategoryComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\AddProductComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\CashierConsoleComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\CategoriesComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\EditCategoryComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\EditProductComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\ProductsComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Pages\TransactionsReportComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.RazorComponent.output.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\RazorDeclaration\WebApp.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.input.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.output.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.RazorCoreGenerate.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Controls\SelectProductForSellingComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Controls\SellProductComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Controls\TodayTransactionsComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\AddCategoryComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\AddProductComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\CashierConsoleComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\CategoriesComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\EditCategoryComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\EditProductComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\ProductsComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\TransactionsReportComponent.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.Views.pdb
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.Pack.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\staticwebassets\msbuild.build.WebApp.props
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.xml
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.csproj.Up2Date
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\refint\WebApp.dll
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\WebApp.genruntimeconfig.cache
+C:\Users\DEICIDA\Downloads\Supermarket_Management_System\SupermarketManagement\WebApp\obj\Debug\net5.0\ref\WebApp.dll
