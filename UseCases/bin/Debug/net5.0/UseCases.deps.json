@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UseCases/1.0.0": {
+        "dependencies": {
+          "CoreBusiness": "1.0.0"
+        },
+        "runtime": {
+          "UseCases.dll": {}
+        }
+      },
+      "CoreBusiness/1.0.0": {
+        "runtime": {
+          "CoreBusiness.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UseCases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
