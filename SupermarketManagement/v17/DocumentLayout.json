@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|c:\\users\\deicida\\downloads\\supermarket_management_system\\supermarketmanagement\\webapp\\controls\\selectproductforsellingcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controls\\selectproductforsellingcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|c:\\users\\deicida\\downloads\\supermarket_management_system\\supermarketmanagement\\webapp\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|c:\\users\\deicida\\downloads\\supermarket_management_system\\supermarketmanagement\\webapp\\migrations\\20211111030637_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\migrations\\20211111030637_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|c:\\users\\deicida\\downloads\\supermarket_management_system\\supermarketmanagement\\webapp\\migrations\\accountcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\migrations\\accountcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|c:\\users\\deicida\\downloads\\supermarket_management_system\\supermarketmanagement\\webapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66EFF64-5D78-46FF-A583-58139CD2D820}|UseCases\\UseCases.csproj|c:\\users\\deicida\\downloads\\supermarket_management_system\\supermarketmanagement\\usecases\\datastoreplugininterfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66EFF64-5D78-46FF-A583-58139CD2D820}|UseCases\\UseCases.csproj|solutionrelative:usecases\\datastoreplugininterfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66EFF64-5D78-46FF-A583-58139CD2D820}|UseCases\\UseCases.csproj|c:\\users\\deicida\\downloads\\supermarket_management_system\\supermarketmanagement\\usecases\\datastoreplugininterfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66EFF64-5D78-46FF-A583-58139CD2D820}|UseCases\\UseCases.csproj|solutionrelative:usecases\\datastoreplugininterfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66EFF64-5D78-46FF-A583-58139CD2D820}|UseCases\\UseCases.csproj|c:\\users\\deicida\\downloads\\supermarket_management_system\\supermarketmanagement\\usecases\\productsusecases\\getproductbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66EFF64-5D78-46FF-A583-58139CD2D820}|UseCases\\UseCases.csproj|solutionrelative:usecases\\productsusecases\\getproductbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66EFF64-5D78-46FF-A583-58139CD2D820}|UseCases\\UseCases.csproj|c:\\users\\deicida\\downloads\\supermarket_management_system\\supermarketmanagement\\usecases\\usecaseinterfaces\\iaddcategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66EFF64-5D78-46FF-A583-58139CD2D820}|UseCases\\UseCases.csproj|solutionrelative:usecases\\usecaseinterfaces\\iaddcategoryusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66EFF64-5D78-46FF-A583-58139CD2D820}|UseCases\\UseCases.csproj|c:\\users\\deicida\\downloads\\supermarket_management_system\\supermarketmanagement\\usecases\\usecaseinterfaces\\irecordtransactionusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66EFF64-5D78-46FF-A583-58139CD2D820}|UseCases\\UseCases.csproj|solutionrelative:usecases\\usecaseinterfaces\\irecordtransactionusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66EFF64-5D78-46FF-A583-58139CD2D820}|UseCases\\UseCases.csproj|c:\\users\\deicida\\downloads\\supermarket_management_system\\supermarketmanagement\\usecases\\usecaseinterfaces\\igettransactionsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66EFF64-5D78-46FF-A583-58139CD2D820}|UseCases\\UseCases.csproj|solutionrelative:usecases\\usecaseinterfaces\\igettransactionsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|c:\\users\\deicida\\downloads\\supermarket_management_system\\supermarketmanagement\\webapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA750B68-FC6B-400B-A8AB-FF35BAAAA292}|Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj|C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\plugins.datastore.sql\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA750B68-FC6B-400B-A8AB-FF35BAAAA292}|Plugins.DataStore.SQL\\Plugins.DataStore.SQL.csproj|solutionrelative:plugins.datastore.sql\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\webapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66EFF64-5D78-46FF-A583-58139CD2D820}|UseCases\\UseCases.csproj|C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\usecases\\transactions\\gettransactionsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66EFF64-5D78-46FF-A583-58139CD2D820}|UseCases\\UseCases.csproj|solutionrelative:usecases\\transactions\\gettransactionsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\webapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|c:\\users\\deicida\\downloads\\supermarket_management_system\\supermarketmanagement\\webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\webapp\\pages\\cashierconsolecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\cashierconsolecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\webapp\\shared\\logindisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\shared\\logindisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\webapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1696F8C-299A-4339-A745-BB414FA15E6E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectProductForSellingComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Controls\\SelectProductForSellingComponent.razor",
+              "RelativeDocumentMoniker": "WebApp\\Controls\\SelectProductForSellingComponent.razor",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Controls\\SelectProductForSellingComponent.razor",
+              "RelativeToolTip": "WebApp\\Controls\\SelectProductForSellingComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T22:06:08.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Data\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApp\\Data\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Data\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApp\\Data\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:06:03.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20211111030637_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Migrations\\20211111030637_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "WebApp\\Migrations\\20211111030637_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Migrations\\20211111030637_CreateIdentitySchema.cs",
+              "RelativeToolTip": "WebApp\\Migrations\\20211111030637_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:05:49.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Migrations\\AccountContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApp\\Migrations\\AccountContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Migrations\\AccountContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApp\\Migrations\\AccountContextModelSnapshot.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:05:45.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-10T22:05:36.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\DataStorePluginInterfaces\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "UseCases\\DataStorePluginInterfaces\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\DataStorePluginInterfaces\\ITransactionRepository.cs",
+              "RelativeToolTip": "UseCases\\DataStorePluginInterfaces\\ITransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:04:30.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\DataStorePluginInterfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "UseCases\\DataStorePluginInterfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\DataStorePluginInterfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "UseCases\\DataStorePluginInterfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:04:18.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetProductByIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\ProductsUseCases\\GetProductByIdUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\ProductsUseCases\\GetProductByIdUseCase.cs",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\ProductsUseCases\\GetProductByIdUseCase.cs",
+              "RelativeToolTip": "UseCases\\ProductsUseCases\\GetProductByIdUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:04:14.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAddCategoryUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\UseCaseInterfaces\\IAddCategoryUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\UseCaseInterfaces\\IAddCategoryUseCase.cs",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\UseCaseInterfaces\\IAddCategoryUseCase.cs",
+              "RelativeToolTip": "UseCases\\UseCaseInterfaces\\IAddCategoryUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:04:12.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRecordTransactionUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\UseCaseInterfaces\\IRecordTransactionUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\UseCaseInterfaces\\IRecordTransactionUseCase.cs",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\UseCaseInterfaces\\IRecordTransactionUseCase.cs",
+              "RelativeToolTip": "UseCases\\UseCaseInterfaces\\IRecordTransactionUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:04:09.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGetTransactionsUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\UseCaseInterfaces\\IGetTransactionsUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\UseCaseInterfaces\\IGetTransactionsUseCase.cs",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\UseCaseInterfaces\\IGetTransactionsUseCase.cs",
+              "RelativeToolTip": "UseCases\\UseCaseInterfaces\\IGetTransactionsUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:04:06.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebApp",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\WebApp.csproj",
+              "RelativeDocumentMoniker": "WebApp\\WebApp.csproj",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\WebApp.csproj",
+              "RelativeToolTip": "WebApp\\WebApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-10T21:58:28.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CashierConsoleComponent.razor",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Pages\\CashierConsoleComponent.razor",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\CashierConsoleComponent.razor",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Pages\\CashierConsoleComponent.razor",
+              "RelativeToolTip": "WebApp\\Pages\\CashierConsoleComponent.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T21:52:43.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Pages\\Index.razor",
+              "RelativeToolTip": "WebApp\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T21:52:44.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginDisplay.razor",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Shared\\LoginDisplay.razor",
+              "RelativeDocumentMoniker": "WebApp\\Shared\\LoginDisplay.razor",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Shared\\LoginDisplay.razor",
+              "RelativeToolTip": "WebApp\\Shared\\LoginDisplay.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T21:52:45.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\Plugins.DataStore.SQL\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "Plugins.DataStore.SQL\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\Plugins.DataStore.SQL\\TransactionRepository.cs",
+              "RelativeToolTip": "Plugins.DataStore.SQL\\TransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:52:45.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Startup.cs",
+              "RelativeDocumentMoniker": "WebApp\\Startup.cs",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Startup.cs",
+              "RelativeToolTip": "WebApp\\Startup.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA0wCgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:52:45.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "WebApp\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "WebApp\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvwoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T21:52:45.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetTransactionsUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\Transactions\\GetTransactionsUseCase.cs",
+              "RelativeDocumentMoniker": "UseCases\\Transactions\\GetTransactionsUseCase.cs",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\Transactions\\GetTransactionsUseCase.cs",
+              "RelativeToolTip": "UseCases\\Transactions\\GetTransactionsUseCase.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:52:45.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\App.razor",
+              "RelativeDocumentMoniker": "WebApp\\App.razor",
+              "ToolTip": "C:\\Users\\DEICIDA\\Downloads\\Supermarket_Management_System\\SupermarketManagement\\WebApp\\App.razor",
+              "RelativeToolTip": "WebApp\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T21:52:45.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c1696f8c-299a-4339-a745-bb414fa15e6e": {
+      "ProjectGuid": "c1696f8c-299a-4339-a745-bb414fa15e6e",
+      "DisplayName": "WebApp",
+      "ColorIndex": 0
+    },
+    "e66eff64-5d78-46ff-a583-58139cd2d820": {
+      "ProjectGuid": "e66eff64-5d78-46ff-a583-58139cd2d820",
+      "DisplayName": "UseCases",
+      "ColorIndex": 1
+    },
+    "aa750b68-fc6b-400b-a8ab-ff35baaaa292": {
+      "ProjectGuid": "aa750b68-fc6b-400b-a8ab-ff35baaaa292",
+      "DisplayName": "Plugins.DataStore.SQL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
